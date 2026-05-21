@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out-tsc/
+.angular/
+
+.venv/
+__pycache__/
+*.pyc
+
+target/
+
+.vscode/
+.idea/
+.DS_Store
